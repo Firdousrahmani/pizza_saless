@@ -1,4 +1,4 @@
-# Pizza Sales Data Analysis Using SQL
+# Pizza Sales Data Analysis using SQL
 ![Pizza logo](https://github.com/Firdousrahmani/pizza_saless/blob/main/pizza.png.png)
 
 ## Objective
