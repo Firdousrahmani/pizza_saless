@@ -20,5 +20,10 @@ optimize data-driven decision-making.
 
 
 
+![LinkedIN](www.linkedin.com/in/firdousrahmani)
+
+
+
+
 
 
